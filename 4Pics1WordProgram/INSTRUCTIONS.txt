@@ -1,0 +1,17 @@
+Basic Objective
+The objective of the 4 Pics 1 Word program is to find the word that connects the 4 images presented. There is a word bank containing the letters in the word, but these letters are scrambled among some red herrings. 
+Interaction
+To select a letter, simply click on it and it will appear in the first available position in the answer bar. To deselect a letter, click on it from the answer bar and it will return to the word bank.
+Coin System
+In order to use the special features in this game, you need coins. Completing a level will give you 20 coins. On the other hand, using the eliminate option will cost you 30 coins, and revealing a letter will cost 50 coins.
+Save Option
+In order to save your progress, click the save button before exiting the game.
+Special Features
+Clear Option
+In order to clear all the selections in the answer bar, click on the clear button. This does not cost any coins.
+Hint Option
+To reveal a letter, click on the hint button. A letter will then be added to the answer bar. If for some reason you need the last letter to be revealed, then please press on a letter after that letter is revealed to move on to the next round. This feature can only be used once per round, and costs 50 coins.
+Eliminate Option
+To get rid of a letter, click on the trash button. An incorrect letter will then be removed from the word bank. This feature can be used up to three times, and costs 30 coins per use.
+Limitations
+Currently, the game only saves the level that you are on and the number of coins that you have. This means that you could use features multiple times by exiting then coming back, and the letters you have placed in the answer bar will disappear when closing the program.

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tester
+comment1.params=
+comment1.target=Tester()
+comment2.params=lvl
+comment2.target=Tester(int)
+comment3.params=filename
+comment3.target=int\ numOfLevels(java.lang.String)
+comment4.params=path
+comment4.target=javax.swing.ImageIcon\ createImageIcon(java.lang.String)
+comment5.params=
+comment5.target=void\ createAndShowGUI()
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=evt
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
